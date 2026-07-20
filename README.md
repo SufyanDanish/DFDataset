@@ -17,9 +17,9 @@ dataset/
     └── non_fire/
 ```
 ## 1 Paper Link 
-Paper will be available after publication.
+Paper can be access through the [link](https://ieeexplore.ieee.org/abstract/document/11557121)
 ## 2 Dataset
-The datasets can be downloaded from the following links.
+The datasets can be downloaded from the following links
 
 Option 1: The proposed DF dataset Download from given link: Click [here](https://drive.google.com/file/d/1dLxg6DSz2jAmGYiOkRCWcAX14zT8XbBE/view?usp=sharing)
 
@@ -28,3 +28,12 @@ Option 2: Download FLAME’s dataset from the given link: Click [here](https://i
 
 Option 3:  Downlod FD dataset from the given link Click [here](https://drive.google.com/drive/folders/14wGLPGCoJCPwfJY0PeK9tha64MqUF9iG?usp=sharing))
 ## 3 Citation and Acknowledgements
+```
+@article{danish2026toward,
+  title={Toward Intelligent Earth Observation: Hierarchical Feature Fusion and a Drone Dataset for UAV-Based Fire Detection},
+  author={Danish, Sufyan and Khan, Samee Ullah and Dang, L Minh and Song, Hyoung-Kyu and Moon, Hyeonjoon},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  year={2026},
+  publisher={IEEE}
+}
+```
